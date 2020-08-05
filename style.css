@@ -27,15 +27,14 @@ h1 {
   line-height: 1.2;
 }
 
-
 .follow-me{
   font-weight: bold;
 }
 
 a {
-    text-decoration: none;
-    color: #85adad;
-    font-size: 35px;
+  text-decoration: none;
+  color: #85adad;
+  font-size: 35px;
 }
 
 a:hover {
